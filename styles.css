@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.holder{
+	background-color:grey;
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	height:200px;
+	width:200px;
+	]
+}
+.item{
+	width:40px;
+	margin:14px;
+	padding:20px;
+	background-color:aqua;
+	box-sizing:border-box;
+}
